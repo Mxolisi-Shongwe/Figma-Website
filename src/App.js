@@ -171,7 +171,7 @@ function App() {
   return (
     <div>
       <CustomHeader>
-        <Logo><StyledImage src="logo.svg" alt="Your Image Alt Text" /></Logo>
+        <Logo><StyledImage src="logo.svg" alt="Brands" /></Logo>
         <StyledNav>
           <Nav.Link href="#services">Services</Nav.Link>
           <Nav.Link href="#industries">Industries</Nav.Link>
